@@ -17,6 +17,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 02](#semana-02) | Relatividade do tempo |
 | [Semana 03](#semana-03) | Relatividade do espaço |
 | [Semana 04](#semana-04) | (trabalho em equipe) |
+| [Semana 05](#semana-05) | Exercícios |
 
 
 ## Semana 01
@@ -65,6 +66,20 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 *21/03/2023 N3AB*
 
  - [ ] Trabalho em Equipe (reposição);
+
+
+
+## Semana 05
+
+*27/03/2023 N2CD*
+
+ - [x] Discussão e resolução de problemas;
+ - [x] Livro: serway;
+
+*28/03/2023 N3AB*
+
+ - [x] Discussão e resolução de problemas;
+ - [x] Livro: young e freedman;
 
 
 
