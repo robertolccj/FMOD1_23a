@@ -18,6 +18,8 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 03](#semana-03) | Relatividade do espaço |
 | [Semana 04](#semana-04) | (trabalho em equipe) |
 | [Semana 05](#semana-05) | Exercícios |
+| [Semana 06](#semana-06) | Avaliação |
+
 
 
 ## Semana 01
@@ -80,6 +82,20 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
  - [x] Discussão e resolução de problemas;
  - [x] Livro: young e freedman;
+
+
+
+## Semana 06
+
+*03/04/2023 N2CD*
+
+ - [ ] Avaliação;
+ - [ ] Resolução de uma (1) questão do livro;
+
+*04/04/2023 N3AB*
+
+ - [ ] Avaliação;
+ - [ ] Resolução de uma (1) questão do livro;
 
 
 
