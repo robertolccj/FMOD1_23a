@@ -14,7 +14,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | Semana                  | Tema              |
 | :---                    | :---              |
 | [Semana 01](#semana-01) | Apresentação      |
-| [Semana 02](#semana-02) | Conteúdo          |
+| [Semana 02](#semana-02) | Relatividade do tempo |
 
 
 
@@ -28,6 +28,18 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 *28/02/2023 N3AB*
 
  - [x] Introdução à Relatividade;
+
+
+
+## Semana 02
+
+*06/03/2023 N2CD*
+
+ - [x] Simultaneidade;
+
+*07/03/2023 N3AB*
+
+ - [x] Relatividade do Tempo;
 
 
 
