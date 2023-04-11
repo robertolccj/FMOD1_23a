@@ -89,13 +89,13 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
 *03/04/2023 N2CD*
 
- - [ ] Avaliação;
- - [ ] Resolução de uma (1) questão do livro;
+ - [x] Avaliação;
+ - [x] Resolução de uma (1) questão do livro;
 
 *04/04/2023 N3AB*
 
- - [ ] Avaliação;
- - [ ] Resolução de uma (1) questão do livro;
+ - [x] Avaliação;
+ - [x] Resolução de uma (1) questão do livro;
 
 
 
