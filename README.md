@@ -110,8 +110,9 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
 *11/04/2023 N3AB*
 
- - [ ] inserir
- - [ ] inserir
+ - [x] Relatividade das velocidades;
+ - [x] Resolução da questão 27 e 28 (em sala);
+ - [x] Pós aula: questão 30 (cap 22) "O sistema estelar Q1..."
 
 
 
