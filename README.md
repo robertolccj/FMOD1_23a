@@ -99,6 +99,21 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
 
 
+## Semana 07
+
+*10/04/2023 N2CD*
+
+ - [x] Transformação de Lorentz;
+ - [x] Análise de problema resolvido do livro;
+ - [x] Resolução da questão 17 (Resnick);
+
+*11/04/2023 N3AB*
+
+ - [ ] inserir
+ - [ ] inserir
+
+
+
 ----
 
 **FIM**
