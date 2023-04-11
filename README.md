@@ -8,6 +8,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 2. [Cronograma e Contato do Professor](files/FMOD1_plano.pdf)
 3. [Curso de Física - IFCE Sobral](https://ifce.edu.br/sobral/campus-sobral/cursos/superiores/licenciatura/fisica)
 4. [Atualizações](https://github.com/robertolccj/FMOD1_23a/commits/main)
+5. [Outros Arquivos](https://mega.nz/folder/BHpjWLYK#RKYihf1KfYjiGWMUXEKrbg)
 
 
 
