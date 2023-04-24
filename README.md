@@ -20,6 +20,8 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 04](#semana-04) | (trabalho em equipe) |
 | [Semana 05](#semana-05) | Exercícios |
 | [Semana 06](#semana-06) | Avaliação |
+| [Semana 07](#semana-07) | Relatividade das Velocidades|
+| [Semana 08](#semana-08) | Dinâmica (relatividade) |
 
 
 
@@ -113,6 +115,21 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
  - [x] Relatividade das velocidades;
  - [x] Resolução da questão 27 e 28 (em sala);
  - [x] Pós aula: questão 30 (cap 22) "O sistema estelar Q1..."
+
+
+
+## Semana 08
+
+*17/04/2023 N2CD*
+
+ - [x] Resolução de questões;
+
+*18/04/2023 N3AB*
+
+ - [x] Momento e Energia (seção 37.6);
+ - [x] Discussão dos Exemplos 37.06, 37.07;
+ - [x] Comentários sobre as questões 40 à 43;
+ - [x] Pós aula: questões 40 à 43;
 
 
 
