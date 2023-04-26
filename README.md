@@ -22,6 +22,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 06](#semana-06) | Avaliação |
 | [Semana 07](#semana-07) | Relatividade das Velocidades|
 | [Semana 08](#semana-08) | Dinâmica (relatividade) |
+| [Semana 09](#semana-09) | Momento e Energia |
 
 
 
@@ -130,6 +131,20 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
  - [x] Discussão dos Exemplos 37.06, 37.07;
  - [x] Comentários sobre as questões 40 à 43;
  - [x] Pós aula: questões 40 à 43;
+
+
+
+## Semana 09
+
+*24/04/2023 N2CD*
+
+ - [x] Momento e Energia (questões);
+ - [x] Discussão das questões 40 à 42;
+
+*25/04/2023 N3AB*
+
+ - [x] Resolução das questões 43, 45;
+ - [x] Pós aula: 46, 47, 51 e 55;
 
 
 
