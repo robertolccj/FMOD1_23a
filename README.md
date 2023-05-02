@@ -17,6 +17,8 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
 ### Arquivos Importantes
 
+*Os arquivos abaixo estão no link 1 acima.*
+
 | Assunto                | Pasta    |
 | :---                   | :---     |
 | Programa da disciplina | 01_sobre |
