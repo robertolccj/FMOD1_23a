@@ -4,13 +4,32 @@
 
 Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor Roberto Lima, no IFCE Campus Sobral.
 
-1. [Programa da Disciplina](files/FMOD1_programa.pdf)
-2. [Cronograma e Contato do Professor](files/FMOD1_plano.pdf)
-3. [Curso de Física - IFCE Sobral](https://ifce.edu.br/sobral/campus-sobral/cursos/superiores/licenciatura/fisica)
-4. [Atualizações](https://github.com/robertolccj/FMOD1_23a/commits/main)
-5. [Outros Arquivos](https://mega.nz/folder/BHpjWLYK#RKYihf1KfYjiGWMUXEKrbg)
 
 
+### Links Importantes
+
+1. [Pasta da disciplina](https://mega.nz/folder/BHpjWLYK#RKYihf1KfYjiGWMUXEKrbg)
+2. [Sobre o professor](https://robertolccj.github.io/pesquisa/index.html)
+3. [Página oficial do curso](https://ifce.edu.br/sobral/campus-sobral/cursos/superiores/licenciatura/fisica)
+4. [Atualizações desta página](https://github.com/robertolccj/FMOD1_23a/commits/main)
+
+
+
+### Arquivos Importantes
+
+| Assunto                | Pasta    |
+| :---                   | :---     |
+| Programa da disciplina | 01_sobre |
+| Cronograma             | 01_sobre |
+| Folha de Avaliação     | 01_sobre |
+| Rubrica de Avaliação   | 01_sobre |
+| Questionários          | 02_questionários |
+| Resoluções de questões | 03_resoluções |
+| Quadros de aulas       | 04_quadros |
+
+
+
+### Atualizações Semanais
 
 | Semana                  | Tema              |
 | :---                    | :---              |
