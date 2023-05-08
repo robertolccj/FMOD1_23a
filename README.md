@@ -45,6 +45,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 08](#semana-08) | Dinâmica (relatividade) |
 | [Semana 09](#semana-09) | Momento e Energia |
 | [Semana 10](#semana-10) | Avaliação |
+| [Semana 11](#semana-11) | Efeito Fotoelétrico |
 
 
 
@@ -180,6 +181,18 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
  - [x] Avaliação;
  - [x] Problema 35 (Serway Vol 4 Cap. 5 Ed. 8);
+
+
+
+## Semana 11
+
+*08/05/2023 N2CD*
+
+ - [ ] Fóton, o quanta de luz;
+
+*09/05/2023 N3AB*
+
+ - [ ] Efeito Fotoelétrico;
 
 
 
