@@ -44,6 +44,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 07](#semana-07) | Relatividade das Velocidades|
 | [Semana 08](#semana-08) | Dinâmica (relatividade) |
 | [Semana 09](#semana-09) | Momento e Energia |
+| [Semana 10](#semana-10) | Avaliação |
 
 
 
@@ -166,6 +167,19 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
  - [x] Resolução das questões 43, 45;
  - [x] Pós aula: 46, 47, 51 e 55;
+
+
+
+## Semana 10
+
+*01/05/2023 N2CD*
+
+ - FERIADO;
+
+*02/05/2023 N3AB*
+
+ - [x] Avaliação;
+ - [x] Problema 35 (Serway Vol 4 Cap. 5 Ed. 8);
 
 
 
