@@ -188,11 +188,12 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
 *08/05/2023 N2CD*
 
- - [ ] Fóton, o quanta de luz;
+ - [x] Fóton, o quanta de luz;
 
 *09/05/2023 N3AB*
 
- - [ ] Efeito Fotoelétrico;
+ - [x] Efeito Fotoelétrico;
+ - [x] Pós aula: problema 19;
 
 
 
