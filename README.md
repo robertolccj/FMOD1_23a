@@ -46,6 +46,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 09](#semana-09) | Momento e Energia |
 | [Semana 10](#semana-10) | Avaliação |
 | [Semana 11](#semana-11) | Efeito Fotoelétrico |
+| [Semana 12](#semana-12) | Conteúdo |
 
 
 
@@ -194,6 +195,18 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
  - [x] Efeito Fotoelétrico;
  - [x] Pós aula: problema 19;
+
+
+
+## Semana 12
+
+*15/05/2023 N2CD*
+
+ - [ ] Conteúdo;
+
+*16/05/2023 N3AB*
+
+ - [ ] Conteúdo;
 
 
 
