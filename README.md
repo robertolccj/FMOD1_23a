@@ -46,7 +46,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 09](#semana-09) | Momento e Energia |
 | [Semana 10](#semana-10) | Avaliação |
 | [Semana 11](#semana-11) | Efeito Fotoelétrico |
-| [Semana 12](#semana-12) | Conteúdo |
+| [Semana 12](#semana-12) | Espalhamento Compton |
 
 
 
@@ -202,11 +202,13 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 
 *15/05/2023 N2CD*
 
- - [ ] Conteúdo;
+ - [x] Espalhamento Compton;
+ - [x] Deslocamento Compton;
 
 *16/05/2023 N3AB*
 
- - [ ] Conteúdo;
+ - [x] Problema 27 e 29;
+ - [x] Pós aula: problema 35;
 
 
 
