@@ -49,6 +49,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 | [Semana 12](#semana-12) | Espalhamento Compton |
 | [Semana 13](#semana-13) | Exercícios |
 | [Semana 14](#semana-14) | Avaliação |
+| [Semana 15](#semana-15) | Elétrons e Ondas |
 
 
 
@@ -235,6 +236,21 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
 *30/05/2023 N3AB*
 
  - [x] Avaliação;
+
+
+
+## Semana 15
+
+*05/06/2023 N2CD*
+
+ - [x] O nascimento da física quântica;
+ - [x] Resolução da questão 42;
+ - [x] Comentários sobre as questões 43, 44 e 45;
+
+*06/06/2023 N3AB*
+
+ - [x] Elétrons e ondas de matéria;
+ - [x] Comentários sobre a questão 46;
 
 
 
