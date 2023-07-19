@@ -252,7 +252,7 @@ Página de apoio à disciplina de Física Moderna 1, ministrada pelo professor R
  - [x] Elétrons e ondas de matéria;
  - [x] Comentários sobre a questão 46;
 
-
+Disciplina Finalizada.
 
 ----
 
